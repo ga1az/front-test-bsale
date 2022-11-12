@@ -23,13 +23,9 @@ _Para ejecutar el proyecto._
 npm run dev
 ```
 
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-
 ## Despliegue 📦
 
-_El despliege esta en amazon aws:_
+_El despliege esta en amazon aws S3: http://front-bsale-test.s3-website-us-east-1.amazonaws.com/_
 
 ## Construido con 🛠️
 
